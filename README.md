@@ -14,8 +14,8 @@
 - Frontend: JavaScript, jQuery, Nexacro
 - Mobile: Hybrid App, Objective-C (iOS), Android
 - Database: Oracle, PostgreSQL, Altibase
-- DevOps: Jenkins, GitHub, GitLab
-- Tools: Postman, FileZilla, SVN, Deaver, Toad
+- DevOps: Jenkins (CI/CD), GitHub, GitLab, SVN
+- Tools: Postman, FileZilla, SVN, DBeaver, Toad
 
 ---
 
