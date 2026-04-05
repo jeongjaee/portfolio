@@ -10,8 +10,8 @@
 ---
 
 ## 🛠 Tech Stack
-- Backend: Java, Spring Framework, Spring Boot, Spring MVC, JPA, MyBatis, JSP, REST API
-- Frontend: JavaScript, jQuery, Ajax, CSS3, Nexacro
+- Backend: Java, Spring Framework, Spring Boot, Spring MVC, JPA, MyBatis, REST API
+- Frontend: JavaScript, jQuery, Ajax, CSS3, JSP, Nexacro
 - Mobile: Hybrid App, Objective-C (iOS), Android (Native 유지보수)
 - Database: Oracle, PostgreSQL, MySQL, MariaDB, Altibase
 - DevOps: Jenkins (CI/CD), GitHub, GitLab, SVN
