@@ -10,12 +10,12 @@
 ---
 
 ## 🛠 Tech Stack
-- Backend: Java, Spring, Spring Boot, JPA
-- Frontend: JavaScript, jQuery, Nexacro
-- Mobile: Hybrid App, Objective-C (iOS), Android
-- Database: Oracle, PostgreSQL, Altibase
+- Backend: Java, Spring Framework, Spring Boot, Spring MVC, JPA, MyBatis, JSP, REST API
+- Frontend: JavaScript, jQuery, Ajax, CSS3, Nexacro
+- Mobile: Hybrid App, Objective-C (iOS), Android (Native 유지보수)
+- Database: Oracle, PostgreSQL, MySQL, MariaDB, Altibase
 - DevOps: Jenkins (CI/CD), GitHub, GitLab, SVN
-- Tools: Postman, FileZilla, SVN, DBeaver, Toad
+- Tools: Postman, FileZilla, SVN, DBeaver, Toad, VPN
 
 ---
 
