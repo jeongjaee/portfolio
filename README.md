@@ -12,9 +12,10 @@
 ## 🛠 Tech Stack
 - Backend: Java, Spring, Spring Boot, JPA
 - Frontend: JavaScript, jQuery, Nexacro
+- Mobile: Hybrid App, Objective-C (iOS), Android
 - Database: Oracle, PostgreSQL, Altibase
 - DevOps: Jenkins, GitHub, GitLab
-- Tools: Postman, FileZilla, SVN
+- Tools: Postman, FileZilla, SVN, Deaver, Toad
 
 ---
 
@@ -75,9 +76,11 @@
 
 - 관세청 전자통관 시스템 유지보수 및 개발
 - Oracle 기반 데이터 처리 로직 구현
-- 모바일 하이브리드 앱 운영
+- 모바일 하이브리드 앱 운영 및 배포
+- iOS(Objective-C), Android 환경 이슈 대응 및 유지보수
 
 **✅ Achievement**
+- iOS/Android 이슈 대응을 통한 모바일 서비스 안정성 확보
 - 장애 대응 속도 개선
 - 사용자 편의성 향상
 
