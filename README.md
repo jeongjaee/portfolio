@@ -62,7 +62,7 @@
 ### 🔧 CompanyWIE (2021.06 ~ 2021.12)
 **Full-Stack Developer (단독 수행)**
 
-- Spring Boot 기반 개발 환경 구축
+- Spring Boot 기반 대내시스템 S1 개발 환경 구축
 - 산업 플랫폼 신규 기능 개발 및 시스템 연계
 
 **✅ Achievement**
@@ -95,7 +95,6 @@
 **✅ Achievement**
 - 사용자 중심 UI 구현
 - 개발 생산성 향상
-![Uploading 위지언_한밭대학교 포털시스템.png…]()
 
 ---
 
