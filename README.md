@@ -46,7 +46,7 @@
 - 온라인 사건처리 시스템 개발
 - Jenkins 기반 배포 자동화
 
-👉 [프로젝트 상세 보기](./Fair Trade Commission Data & Case Management Platform )
+👉 [프로젝트 상세 보기](./public-service-platform)
 
 ---
 
