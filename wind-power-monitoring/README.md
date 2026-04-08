@@ -15,11 +15,15 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./images/dashboard.png" width="800"/>
+  <img src="./images/windPower1.png" width="800"/>
 </p>
 
 <p align="center">
-  <img src="./images/status.png" width="800"/>
+  <img src="./images/windPower2.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="./images/windPower3.png" width="800"/>
 </p>
 
 ---
