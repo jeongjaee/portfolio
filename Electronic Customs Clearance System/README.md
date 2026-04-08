@@ -15,7 +15,11 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./images/mobile.png" width="400"/>
+  <img src="./images/mobile.png" width="250"/>
+  <img src="./images/mobile2.png" width="250"/>
+  <img src="./images/mobile3.png" width="250"/>
+  <img src="./images/mobile4.png" width="250"/>
+  <img src="./images/mobile5.png" width="250"/>
 </p>
 
 ---
