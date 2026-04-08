@@ -8,7 +8,7 @@
 - 기간: 2021.12 ~ 2024.01  
 - 역할: Full-Stack / ETL / DevOps  
 - 기술: Spring Framework, JSP, JavaScript, Oracle, Altibase, Jenkins  
-- 개발 방식: Eclipse 기반 개발
+- 개발 환경: Eclipse, DBeaver
 
 ---
 
