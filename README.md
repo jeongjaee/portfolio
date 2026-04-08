@@ -1,5 +1,12 @@
 # 👨‍💻 임정재 | Full-Stack Developer
 
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring](https://img.shields.io/badge/Spring-Boot-green)
+![JSP](https://img.shields.io/badge/JSP-Frontend-orange)
+![Oracle](https://img.shields.io/badge/DB-Oracle-red)
+![MariaDB](https://img.shields.io/badge/DB-MariaDB-blue)
+![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-yellow)
+
 8년차 풀스택 개발자로 공공 및 에너지 도메인에서  
 **시스템 설계부터 운영, 장애 대응, 성능 개선까지 전 주기 경험**을 보유하고 있습니다.
 
