@@ -57,7 +57,7 @@
 - 모바일 앱(iOS / Android) 개발
 - Nexus 기반 배포 관리
 
-👉 [프로젝트 상세 보기](./Electronic Customs Clearance System)
+👉 [프로젝트 상세 보기](./electronic-customs-clearance-system)
 
 ---
 
