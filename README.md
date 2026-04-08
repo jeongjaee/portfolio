@@ -46,7 +46,7 @@
 - 온라인 사건처리 시스템 개발
 - Jenkins 기반 배포 자동화
 
-👉 [프로젝트 상세 보기](./Electronic Customs Clearance System)
+👉 [프로젝트 상세 보기](./Fair Trade Commission Data & Case Management Platform)
 
 ---
 
@@ -57,7 +57,7 @@
 - 모바일 앱(iOS / Android) 개발
 - Nexus 기반 배포 관리
 
-👉 [프로젝트 상세 보기](./kcnet-system)
+👉 [프로젝트 상세 보기](./electronic-customs-clearance-system)
 
 ---
 
@@ -78,7 +78,7 @@
 - Nexacro 기반 UI 개발
 - 사용자 요구사항 반영
 
-👉 [프로젝트 상세 보기](./wizian-hanbat-system)
+👉 [프로젝트 상세 보기](./hanbat-system)
 
 ---
 
