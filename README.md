@@ -6,6 +6,8 @@
 ![Oracle](https://img.shields.io/badge/DB-Oracle-red)
 ![MariaDB](https://img.shields.io/badge/DB-MariaDB-blue)
 ![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-yellow)
+![Tomcat](https://img.shields.io/badge/WebServer-Tomcat-orange)
+![Linux](https://img.shields.io/badge/OS-Linux-black)
 
 ---
 
@@ -88,6 +90,9 @@
 - 풍력 통합운영관리 플랫폼 **단독 개발 및 운영**
 - 실시간 설비 모니터링 시스템 구축 및 데이터 자동화
 - 외부 API(KPX / TIS) 연계 및 데이터 파이프라인 구성
+- Linux 서버 환경에서 WAR 배포 및 운영 관리
+- Tomcat 기반 애플리케이션 운영 및 관리
+  
  👉 무중단 운영 환경 유지 및 장애 대응 속도 개선
 
 ---
@@ -96,6 +101,7 @@
 - 공정거래위원회 대민/대내 시스템 개발 및 운영
 - ETL 기반 데이터 통합 및 적재 파이프라인 구축
 - Jenkins 기반 CI/CD 및 배포 자동화 구축
+  
  👉 데이터 처리 효율 향상 및 운영 자동화 환경 구축
 
 ---
@@ -104,6 +110,7 @@
 - 관세청 전자통관 시스템 유지보수 및 기능 개발
 - 공통 모듈 및 배포 프로세스 개선 (Nexus 기반)
 - 모바일 앱(Android / iOS) 개발 및 Firebase 분석 적용
+  
  👉 시스템 안정성 확보 및 모바일 사용자 데이터 기반 운영
 
 ---
@@ -111,14 +118,16 @@
 ### 🔧 CompanyWIE (2021.06 ~ 2021.12)
 - 충남도시가스 S1 모바일 업무 시스템 단독 개발 및 운영
 - GIS 기반 현장 작업 관리 시스템 구축
-- C# 시스템과 데이터 연계 개발  
+- C# 시스템과 데이터 연계 개발
+  
  👉 현장 중심 시스템 개선 및 운영 안정성 확보
 
 ---
 
 ### 🎓 WIZIAN (2018.02 ~ 2018.08)
 - 한밭대학교 통합정보시스템 구축 프로젝트 참여 (Nexacro 기반)
-- 학사 행정 시스템 UI 개발 및 사용자 요구사항 반영  
+- 학사 행정 시스템 UI 개발 및 사용자 요구사항 반영
+  
  👉 공공 시스템 개발 경험 기반 확보 및 UI 개발 역량 향상
 
 ---
@@ -135,7 +144,7 @@
 - Oracle, PostgreSQL, MySQL, MariaDB, Altibase
 
 **DevOps**
-- Jenkins, GitHub, GitLab, SVN
+- Jenkins, GitHub, GitLab, SVN, Tomcat, Linux
 
 ---
 
