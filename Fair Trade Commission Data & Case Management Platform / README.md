@@ -16,7 +16,10 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./images/faiardata.png" width="800"/>
+  <img src="./images/fairdata.png" width="800"/>
+  <img src="./images/CaseManagement.png" width="800"/>
+  <img src="./images/CaseManagement2.png" width="800"/>
+  <img src="./images/CaseManagement3.png" width="800"/>
 </p>
 
 ---
