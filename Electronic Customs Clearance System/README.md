@@ -8,7 +8,7 @@
 ## 📌 Overview
 - 기간: 2018.09 ~ 2021.06  
 - 역할: Web Developer  
-- 기술: Java, Spring, Oracle, Hybrid App
+- 기술: Java, JavaScript, Spring, Oracle, Hybrid App
 
 ---
 
