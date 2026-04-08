@@ -16,7 +16,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./images/main.png" width="800"/>
+  <img src="./images/faiardata.png" width="800"/>
 </p>
 
 ---
