@@ -9,7 +9,7 @@
 ## 📌 Overview
 - 기간: 2021.12 ~ 2024.01  
 - 역할: Full-Stack / ETL / DevOps  
-- 기술: Spring Framework, JSP, Oracle, Jenkins
+- 기술: Spring Framework, JSP, Oracle, Altibase, Jenkins
 
 ---
 
