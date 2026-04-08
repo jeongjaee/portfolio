@@ -50,6 +50,14 @@
 
 👉 [프로젝트 상세 보기](./kcnet-system)
 
+### 🎓 Hanbat National University Information System
+한밭대학교 통합정보시스템 (Nexacro 기반)
+
+- 학사 행정 시스템 UI 개발
+- 사용자 요구사항 기반 화면 구현
+
+👉 [프로젝트 상세 보기](./hanbat-system)
+
 ---
 
 ## 💼 Career Summary
@@ -85,8 +93,9 @@
 ---
 
 ### 🎓 WIZIAN (2018.02 ~ 2018.08)
-- Nexacro 기반 학사 시스템 UI 개발  
-👉 사용자 중심 UI 개선 및 개발 생산성 향상
+- 한밭대학교 통합정보시스템 구축 프로젝트 참여 (Nexacro 기반)
+- 학사 행정 시스템 UI 개발 및 사용자 요구사항 반영  
+👉 공공 시스템 개발 경험 기반 확보 및 UI 개발 역량 향상
 ---
 
 ## 🛠 Tech Stack
