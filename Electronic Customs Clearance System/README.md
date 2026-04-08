@@ -6,8 +6,7 @@
 
 ## 📌 Overview
 - 기간: 2018.09 ~ 2021.06  
-- 역할: Web Developer (공통 모듈 / 모바일 / 운영)  
-- 인원: 3명 (FP 시스템 개발)  
+- 역할: Web Developer (공통 모듈 / 모바일 / 유지보수)  
 - 기술: Java, Spring, JavaScript, Oracle, Hybrid App, Android(Java), iOS(Objective-C), Firebase
 
 ---
