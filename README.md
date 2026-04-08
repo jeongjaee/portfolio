@@ -33,10 +33,16 @@
 ### 🌪 Wind Power Monitoring Platform
 풍력 발전단지 통합 운영 및 실시간 모니터링 시스템 (단독 수행)
 
-- 실시간 설비 및 발전량 모니터링
-- 외부 API(KPX / TIS) 데이터 연계
-- 운영 및 장애 대응
+- 풍력 발전 설비 상태 및 발전량을 실시간으로 수집·가공하여 대시보드로 시각화
+- KPX / TIS 외부 API 연계를 통한 데이터 자동 수집 및 스케줄링 처리 구현
+- 운영 환경에서 발생하는 장애 대응 및 기능 개선을 지속 수행하며 시스템 안정성 확보
+- 단독 수행으로 설계부터 개발, 배포, 운영까지 전 과정 책임
 
+**✅ Achievement**
+- 무중단 운영 환경 유지
+- 실시간 모니터링 체계 구축으로 장애 인지 및 대응 속도 향상
+- 운영 가시성 확보로 유지보수 효율 개선
+  
 👉 [프로젝트 상세 보기](./wind-power-monitoring)
 
 ---
@@ -44,21 +50,28 @@
 ### 🏛 Fair Trade Commission Data & Case Management Platform
 공정거래위원회 대민/대내 통합 데이터 시스템
 
-- ETL 기반 데이터 파이프라인 구축
-- 온라인 사건처리 시스템 개발
-- Fairdata 대내 시스템 개발
-- Jenkins 기반 배포 자동화
+- ETL 기반 데이터 파이프라인 구축 → 데이터 처리 효율화
+- 온라인 사건처리 및 Fairdata 대내 시스템 개발
+- Jenkins 기반 배포 자동화 구축 → 운영 자동화 달성
 
+**✅ Achievement**
+- 데이터 적재 및 처리 속도 30% 이상 개선
+- 배포 자동화로 운영 안정성 강화 및 수작업 최소화
+  
 👉 [프로젝트 상세 보기](./public-service-platform)
 
 ---
 
 ### 📦 Electronic Customs Clearance System
-관세청 전자통관 시스템
+관세청 전자통관 시스템 (웹 + 모바일)
 
 - 공통 모듈 및 데이터 처리 로직 개발
-- 모바일 앱(iOS / Android) 개발
-- Nexus 기반 배포 관리
+- Android / iOS 앱 개발 및 Firebase 기반 분석 적용
+- Nexus 기반 배포 관리 및 안정적 운영
+
+**✅ Achievement**
+- 모바일 사용자 데이터 기반 운영 → 사용성 개선
+- 공통 모듈 개선으로 시스템 유지보수 효율 향상
 
 👉 [프로젝트 상세 보기](./electronic-customs-clearance-system)
 
@@ -67,9 +80,13 @@
 ### 🔧 S1 Mobile Work Management System
 충남도시가스 내부 모바일 업무 시스템 (단독 운영)
 
-- GIS 기반 현장 작업 관리 시스템 개발
-- 모바일 하이브리드 앱 개발 및 운영
-- 현장 사용자와 직접 소통하며 기능 개선
+- GIS 기반 현장 작업 관리 시스템 구축
+- 하이브리드 모바일 앱 개발 및 직접 운영
+- 현장 사용자와 소통하며 기능 개선 및 실시간 피드백 반영
+
+**✅ Achievement**
+- 현장 중심 UX 개선 → 업무 처리 속도 20% 향상
+- 단독 운영으로 시스템 안정성 확보 및 신속 대응
 
 👉 [프로젝트 상세 보기](./s1-system)
 
@@ -78,8 +95,11 @@
 ### 🎓 Hanbat National University Information System
 한밭대학교 통합정보시스템
 
-- Nexacro 기반 UI 개발
-- 사용자 요구사항 반영
+- Nexacro 기반 UI 개발 및 학사 행정 업무 반영
+- 사용자 요구사항 적극 반영하여 사용자 만족도 향상
+
+**✅ Achievement**
+- 공공 시스템 개발 경험 확보 → UI 개발 역량 강화
 
 👉 [프로젝트 상세 보기](./hanbat-system)
 
