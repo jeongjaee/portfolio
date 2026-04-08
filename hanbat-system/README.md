@@ -16,11 +16,11 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./images/hanbat1.png" width="800"/>
+  <img src="./images/hanbatSystem.png" width="800"/>
 </p>
 
 <p align="center">
-  <img src="./images/hanbat2.png" width="800"/>
+  <img src="./images/hanbatSystem2.png" width="800"/>
 </p>
 
 ---
