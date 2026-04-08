@@ -41,7 +41,7 @@
 
 ---
 
-### 📦 Electronic Customs System (KCNET)
+### 📦 Electronic Customs System
 관세청 전자통관 시스템 유지보수 및 개발
 
 - Oracle 기반 데이터 처리 로직 개발
