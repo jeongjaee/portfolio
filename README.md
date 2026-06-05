@@ -191,13 +191,25 @@
 - Java, Spring Boot, Spring MVC, MyBatis, JPA
 
 **Frontend**
-- JavaScript, JSP, jQuery, Ajax, CSS3, Nexacro
+- JavaScript, JSP, jQuery, Ajax, CSS3, Nexacro, Chart.js
+
+**Mobile**
+- Hybrid App, PWA
+- Android (Java)
+- iOS (Objective-C)
 
 **Database**
 - Oracle, PostgreSQL, MySQL, MariaDB, Altibase
 
-**DevOps**
-- Jenkins, GitHub, GitLab, SVN, Tomcat, Linux
+**DevOps & Infrastructure**
+- Jenkins, Tomcat, Linux
+- GitHub, GitLab, SVN
+
+**Tools**
+- IntelliJ IDEA, Eclipse
+- Postman, DBeaver, Toad
+- FileZilla
+- Cursor AI
 
 ---
 
