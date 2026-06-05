@@ -1,4 +1,4 @@
-# 👨‍💻 임정재 | Backend Developer
+# 👨‍💻 임정재 | Backend & Platform Engineer
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring](https://img.shields.io/badge/Spring-Boot-green)
@@ -142,6 +142,7 @@
 - 풍력 통합운영관리 플랫폼 **단독 개발 및 운영**
 - 실시간 설비 모니터링 시스템 구축 및 데이터 자동화
 - 외부 API(KPX / TIS) 연계 및 데이터 파이프라인 구성
+- PWA 기반 모바일 웹앱 개발
 - Linux 서버 환경에서 WAR 배포 및 운영 관리
 - Tomcat 기반 애플리케이션 운영 및 관리
   
